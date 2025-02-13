@@ -1,7 +1,3 @@
-Here’s a well-structured **README.md** file for your **SMS Spam Detection** project:  
-
----
-
 # **SMS Spam Detection**  
 
 ## **Overview**  
@@ -55,8 +51,7 @@ The model is trained using the **SMS Spam Collection Dataset**, which contains *
 
 ### **Step 1: Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/SMS-Spam-Detection.git
-cd SMS-Spam-Detection
+https://github.com/rushangchandekar/SMS-Spam-Detection.git
 ```
 
 ### **Step 2: Install Dependencies**  
