@@ -94,7 +94,7 @@ To run the app locally:
 
 ## Demo
 
-You can try out the SMS Spam Detection model live by visiting the deployed web app (link to be provided).
+You can try out the SMS Spam Detection model live by visiting the deployed web app https://sms-spam-detection-ksroffnutzevqpuhrywbah.streamlit.app/
 
 ---
 
