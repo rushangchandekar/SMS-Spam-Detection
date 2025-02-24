@@ -74,6 +74,12 @@ The model is evaluated using **accuracy**, **precision**, **recall**, and **F1-s
 
 ---
 
+## Demo
+
+You can try out the SMS Spam Detection model live by visiting the deployed web app https://sms-spam-detection-ksroffnutzevqpuhrywbah.streamlit.app/
+
+---
+
 ## Web Deployment
 
 The trained model is deployed as a **Streamlit** web application. Users can input SMS text into a simple text box, and the model will predict whether it’s spam or not.
@@ -89,12 +95,6 @@ To run the app locally:
    streamlit run app.py
    ```
 4. Open your browser and navigate to `localhost:8501` to interact with the model.
-
----
-
-## Demo
-
-You can try out the SMS Spam Detection model live by visiting the deployed web app https://sms-spam-detection-ksroffnutzevqpuhrywbah.streamlit.app/
 
 ---
 
