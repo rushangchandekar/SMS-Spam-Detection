@@ -6,6 +6,12 @@ The SMS Spam Detection project aims to build a machine learning model capable of
 
 ---
 
+## Demo
+
+You can try out the SMS Spam Detection model live by visiting the deployed web app https://sms-spam-detection-ksroffnutzevqpuhrywbah.streamlit.app/
+
+---
+
 ## Technology Used
 
 - **Python**
@@ -71,12 +77,6 @@ Several machine learning algorithms were experimented with to build the most eff
 - **K-Nearest Neighbors (KNN)**
 
 The model is evaluated using **accuracy**, **precision**, **recall**, and **F1-score**. After testing various models, **Naive Bayes** emerged as the best performing model based on precision and recall for spam detection.
-
----
-
-## Demo
-
-You can try out the SMS Spam Detection model live by visiting the deployed web app https://sms-spam-detection-ksroffnutzevqpuhrywbah.streamlit.app/
 
 ---
 
